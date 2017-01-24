@@ -6,3 +6,6 @@
 <div style="height: 80px;width: 90%;"></div>
 * Youtube dashboard
 <img src="images/youtube-dashboard.png" />
+<div style="height: 80px;width: 90%;"></div>
+* Kibana dashboard
+<img src="images/kibana-dashboard.jpg" />
