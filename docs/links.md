@@ -9,3 +9,14 @@
 <div style="height: 80px;width: 90%;"></div>
 * Kibana dashboard
 <img src="images/kibana-dashboard.jpg" />
+
+
+* speedometer
+  * https://sindro.me/t/speedometer/speedometer.html
+
+* gauge
+  * http://bernii.github.io/gauge.js/
+
+* odormeter
+  * http://github.hubspot.com/odometer/
+    * http://jsfiddle.net/adamschwartz/rx6BQ/
