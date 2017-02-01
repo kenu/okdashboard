@@ -1,4 +1,4 @@
-var dataUrl = "data/aapl-data.tsv";
+var dataUrl = "/chart/data/aapl-data.tsv";
 var svg = d3.select("svg"),
     margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = +svg.attr("width") - margin.left - margin.right,
